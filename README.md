@@ -1,2 +1,0 @@
-# jHighlighter
-Text Highlighter
